@@ -1,0 +1,1 @@
+scoop bucket add xuhaojun 'https://github.com/XuHaoJun/scoop-xuhaojun'
