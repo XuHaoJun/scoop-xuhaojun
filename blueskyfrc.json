@@ -5,10 +5,9 @@
     "license": {
         "identifier": "Freeware"
     },
-    "url": "https://onedrive.live.com/download?resid=8473139A4F3F636D!412&authkey=!AE9wLGSORWg-51Y",
+    "url": "https://onedrive.live.com/download?resid=8473139A4F3F636D!412&authkey=!AE9wLGSORWg-51Y#/dl.zip",
     "hash": "1AAF16D5374B15087F3C40166A87D4E00CC4D8BE9530524058D894B101E39543",
     "bin": "BlueskyFRCUtil.exe",
-    "extract_dir": "BlueskyFRC_2.14.2",
     "shortcuts": [
         [
             "BlueskyFRCUtil.exe",
