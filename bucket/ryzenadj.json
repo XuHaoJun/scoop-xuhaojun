@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "description": "Adjust power management settings for Mobile Raven Ridge Ryzen Processors.",
+  "homepage": "https://github.com/FlyGoat/RyzenAdj",
+  "license": {
+    "identifier": "LGPL-3.0-only"
+  },
+  "url": "https://github.com/FlyGoat/RyzenAdj/releases/download/gui-v0.2.1/ryzenadj-win64-v0.2.1-gui.zip",
+  "hash": "572B5D2D7DEDB00B1451FCC54A5E479D51C7B8D711FE82932B2F4F11BE399777",
+  "bin": "ryzenadj.exe",
+  "shortcuts": [["RyzenAdjUI.exe", "RyzenAdj"]]
+}

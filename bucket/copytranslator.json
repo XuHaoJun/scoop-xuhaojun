@@ -1,0 +1,18 @@
+{
+  "version": "8.2.0",
+  "description": "Foreign language reading and translation assistant based on copy and translate.",
+  "homepage": "https://copytranslator.github.io/",
+  "license": {
+    "identifier": "GPL-2.0-only"
+  },
+  "url": "https://github.com/CopyTranslator/CopyTranslator/releases/download/v8.2.0/copytranslator-setup-8.2.0.exe#/dl.7z",
+  "hash": "EF0ADD5A9A3092338ACE8E5DBB8A465DEF54AC7E6614E9ADB0D164319B9F6647",
+  "bin": "copytranslator.exe",
+  "installer": {
+    "script": [
+      "extract_7zip \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+      "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse"
+    ]
+  },
+  "shortcuts": [["copytranslator.exe", "copytranslator"]]
+}
