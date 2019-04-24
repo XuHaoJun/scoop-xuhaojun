@@ -6,7 +6,7 @@
     "identifier": "LGPL-3.0-only"
   },
   "url": "https://github.com/FlyGoat/RyzenAdj/releases/download/gui-v0.2.1/ryzenadj-win64-v0.2.1-gui.zip",
-  "hash": "572B5D2D7DEDB00B1451FCC54A5E479D51C7B8D711FE82932B2F4F11BE399777",
+  "hash": "C40F3A3DD0A83144ABBA0DC6113E3B8CC5FFA71EAE508B3E425821283FFDC4AA",
   "bin": "ryzenadj.exe",
   "shortcuts": [["RyzenAdjUI.exe", "RyzenAdj"]]
 }
