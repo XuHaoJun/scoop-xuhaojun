@@ -2,7 +2,7 @@
     "homepage": "https://www.msi.com/page/afterburner",
     "description": "Overclocking utility for graphics cards. Main features include GPU/Shader/Memory clock adjustment, advanced fan speed and GPU voltage control.",
     "license": "Freeware",
-    "version": "4.6.0",
+    "version": "4.6.1",
     "url": "http://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip#/MSIAfterburnerSetup460.7z",
     "persist": [
         [
